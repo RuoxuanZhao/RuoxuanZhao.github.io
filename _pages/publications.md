@@ -39,7 +39,7 @@ Xueping Lei, <b>Ruoxuan Zhao</b>, Yi Geng, Kaiyu Wang, Ping Ou Yang, Defang Chen
 <i>Aquaculture</i>, 2020.
 <br>
 <br>
-<b>[CMTV‐like ranavirus infection associated with high mortality in captive catfish‐like loach, Triplophysa siluorides, in China](https://onlinelibrary.wiley.com/doi/abs/10.1111/tbed.13473)</b><br>
+<b>[CMTV‐like ranavirus infection associated with high mortality in captive catfish‐like loach, <i>Triplophysa siluorides</i>, in China](https://onlinelibrary.wiley.com/doi/abs/10.1111/tbed.13473)</b><br>
 Lishuang Deng, Yi Geng, <b>Ruoxuan Zhao</b>, Matthew J Gray, Kaiyu Wang, Ping Ouyang, Defang Chen, Xiaoli Huang, Zhengli Chen, Chao Huang, Zhijun Zhong, Hongrui Guo, and Jing Fang<br>
 <i>Transboundary and Emerging Diseases</i>, 2020.
 <br>
